@@ -26,14 +26,14 @@ You can find lots of pretty inforgraphics for quick reference if you do an image
 
 ## Flow
 
-If existing project already on github AND local machine go to project root on local and run `git pull <repo>`.
-In terminal run `git status` and read. 
-If git status returns showing no new files or commits, proceed to do work on project.
-Save your work by using `Ctrl` + `S`.
-Reach a stopping point in your work and run `git status` and read.
-If git status returns showing no new files or commits, return to step 3.
-If git status shows list of files run `git add .` to add all files.
-(optional) `git status` again to see that your files have been added to the commit.
-`git commit -m "Describe changes and reasons for commit"`
-`git push`
-Return to step 2.
+- If existing project already on github AND local machine go to project root on local and run `git pull <repo>`.
+- In terminal run `git status` and read. 
+- If git status returns showing no new files or commits, proceed to do work on project.
+- Save your work by using `Ctrl` + `S`.
+- Reach a stopping point in your work and run `git status` and read.
+- If git status returns showing no new files or commits, return to step 3.
+- If git status shows list of files run `git add .` to add all files.
+- (optional) `git status` again to see that your files have been added to the commit.
+- `git commit -m "Describe changes and reasons for commit"`
+- `git push`
+- Return to step 2.
